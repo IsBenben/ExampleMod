@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "obsidian_ingot",
+  "category": "misc",
+  "ingredients": [
+    "examplemod:obsidian_block"
+  ],
+  "result": {
+    "count": 4,
+    "id": "examplemod:obsidian_ingot"
+  }
+}
